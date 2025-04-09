@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for todoapp-sparkling-sun-7843 on 2025-04-09T12:17:02+01:00
+# fly.toml app configuration file generated for todoapp-quiet-glitter-7915 on 2025-04-09T12:38:26+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'todoapp-sparkling-sun-7843'
+app = 'todoapp-quiet-glitter-7915'
 primary_region = 'lhr'
 console_command = 'php /var/www/html/artisan tinker'
 
